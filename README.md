@@ -2,7 +2,7 @@
 
 ### 😄 About Me
 My name is Tomiwa!
-- 📚 I'm a 19-year-old Cost Engineer Degree Apprentice at Bentley Motors
+- 📚 I'm a 20-year-old Cost Engineer Degree Apprentice at Bentley Motors
 - 👨🏾‍🎓 Currently @ Manchester Metropolitan studying Digital and Technology Solutions
 - 🤖 On a journey to build impactful AI tools while documenting my progress
 - ⚽️ Supporter of Manchester United, if only I could write a program to make us good again 🥲
@@ -11,7 +11,7 @@ My name is Tomiwa!
 ---
 
 ### 💡 What I'm Working On (Planning to Work On)
-- 🐍 CS50 Intro to Programming with Python - Completion Goal: End Of June 2025
+- 🐍 CS50 Intro to Programming with Python
 - 📊 Data Analysis and Automation Tools - To aid Automative Cost Engineering
 - 🛜 Building a Personal Brand - Sharing my journey and insights on GitHub, LinkedIn and other platforms
 
