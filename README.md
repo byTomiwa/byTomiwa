@@ -2,37 +2,12 @@
 
 **Cost Engineer Degree Apprentice @ Bentley Motors | BSc Digital and Technology Solutions @ MMU**
 
-### 😄 About Me
-My name is Tomiwa!
-- 📚 I'm a 20-year-old Cost Engineer Degree Apprentice at Bentley Motors
-- 👨🏾‍🎓 Currently @ Manchester Metropolitan studying Digital and Technology Solutions
-- 🤖 On a journey to build impactful AI tools while documenting my progress
-- ⚽️ Supporter of Manchester United, if only I could write a program to make us good again 🥲
-- 🏎️ Car lover, programming will one day buy me a GLE63 😉
+I'm bridging the gap between automotive software cost engineering and software development. I'm currently on the Software Pathway of my degree, focusing on building data analysis tools, web scrapers, and automation pipelines to support complex engineering decisions.
 
----
-
-### 💡 What I'm Working On (Planning to Work On)
-- 🐍 CS50 Intro to Programming with Python
-- 📊 Data Analysis and Automation Tools - To aid Automative Cost Engineering
-- 🛜 Building a Personal Brand - Sharing my journey and insights on GitHub, LinkedIn and other platforms
-
----
+### 🚀 What I'm Building & Learning
+* **Programming Fundamentals:** Solidifying core competencies in **Java (OOP)** and **Python** to build a robust foundation for scalable systems engineering.
+* **Engineering Productivity:** Developing custom internal tools to support cost analysis across various commodities
 
 ### 🤝 Let's Connect!
-I'm open to learning where I can from more senior developers or even alongside more novice programmers like myself. Keep an eye out on my repositories to stay up to date with what I'm working on!
 
-<!--
-**AlgoRookie/AlgoRookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/tomiwaonigbanjo) | [YouTube]([https://youtube.com/@bytomiwa]))
