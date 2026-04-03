@@ -10,4 +10,4 @@ I'm bridging the gap between automotive software cost engineering and software d
 
 ### 🤝 Let's Connect!
 
-[LinkedIn](https://linkedin.com/in/tomiwaonigbanjo) | [YouTube]([https://youtube.com/@bytomiwa]))
+[LinkedIn](https://linkedin.com/in/tomiwaonigbanjo) | [YouTube](https://youtube.com/@bytomiwa)
