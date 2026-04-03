@@ -1,4 +1,6 @@
-# 🚀 Welcome to the My GitHub! 👋
+# Hi, I'm Tomiwa 👋
+
+**Cost Engineer Degree Apprentice @ Bentley Motors | BSc Digital and Technology Solutions @ MMU**
 
 ### 😄 About Me
 My name is Tomiwa!
